@@ -1,0 +1,30 @@
+﻿* {
+    font-family: Calibri;
+}
+
+#content {
+    width: 60%;
+    position: relative;
+    margin: auto;
+}
+
+#nest {
+    position: relative;
+    margin: auto;
+}
+
+img{
+    margin:2%
+}
+
+table {
+    border: 1px solid black
+}
+
+table td {
+    border: 1px solid black;
+    width:fit-content;
+    height:fit-content;
+    text-align:center;
+    padding:3%;
+}

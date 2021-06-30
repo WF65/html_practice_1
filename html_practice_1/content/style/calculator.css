@@ -1,0 +1,25 @@
+﻿* {
+    font-family: Calibri;
+}
+
+table {
+    width: 40%;
+    border: 1px solid black
+}
+
+
+
+input[type = "button"]{
+    background-color:lightgray;
+    color:black;
+    border:2px solid black;
+    width:100%;
+}
+
+
+input[type="text"] {
+    background-color: white;
+    border: 2px solid black;
+    width: 98.5%;
+    text-align:right;
+}
