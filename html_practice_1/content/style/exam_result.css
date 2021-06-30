@@ -1,0 +1,36 @@
+﻿* {
+    font-family: Calibri;
+}
+
+#content {
+    width: 60%;
+    position: relative;
+    margin: auto;
+}
+
+h1{
+    align-content:center
+}
+
+table{
+    border: 1px solid black
+}
+
+table td{
+    border: 1px solid black;
+}
+
+thead td{
+    text-align:center;
+}
+
+tbody td {
+    text-align:left;
+    font-size:20px;
+}
+
+tfoot td{
+    text-align:right;
+    font-size:20px;
+}
+

@@ -1,0 +1,17 @@
+﻿*{
+    font-family:Calibri;
+}
+
+#content{
+    width:90%;
+    position:relative;
+    margin:auto;
+}
+
+p{
+    text-align:justify;
+    padding:2%
+}
+img{
+    margin:2%
+}
